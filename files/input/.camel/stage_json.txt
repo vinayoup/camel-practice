@@ -1,0 +1,1400 @@
+{
+   "userID":1,
+   "firstName":"Vinay",
+   "middleName":"Singh",
+   "lastName":"Rawat",
+   "email":"vinay@pixeltechlab.com",
+   "phone":"+9910794875",
+   "placeID":"ChIJzweuDkwayUwR5AJsqhMZxsM",
+   "postalCode":"",
+   "province":"QC",
+   "city":"Montreal",
+   "address":"100 Ontario Street East",
+   "paymentCustmoerID":"cus_IzLZWjipnQIvgM",
+   "role":"CUSTOMER",
+   "status":"PENDING",
+   "creationDate":1613932902000,
+   "modificationDate":1613932902000,
+   "customerBasicInfo":{
+      "basicInfoID":1,
+      "pinCode":"H2X 2S9",
+      "city":"Montreal",
+      "province":"QC",
+      "fax":"342423423423",
+      "dob":760060800000,
+      "gender":"MALE",
+      "income":null,
+      "lawyerName":"Vinay Lawyer",
+      "anotherEmail":"",
+      "creationDate":1613932947000,
+      "modificationDate":1616007040000
+   },
+   "partnerBasicInfo":{
+      "partnerBasicInfoID":1,
+      "firstName":"Yogita",
+      "middleName":"Singh",
+      "lastName":"Rawat",
+      "address":"99 Ontario 11",
+      "city":"Tunis",
+      "province":"ON",
+      "street":null,
+      "placeIDS":null,
+      "phone":"+9910735222",
+      "pinCode":"P0N 1J0",
+      "fax":"312312432412",
+      "dob":791596800000,
+      "gender":"FEMALE",
+      "income":null,
+      "laywerName":"Yogita Lawyer",
+      "partnerEmail":"yogita@gmail.com",
+      "creationDate":1613933002000,
+      "modificationDate":1615951567000
+   },
+   "maritalInfo":{
+      "maritalInfoID":1,
+      "isMarried":true,
+      "isCohabited":true,
+      "isSepareted":true,
+      "isDivorced":true,
+      "isLivedTogether":false,
+      "isNeverLivedTogether":true,
+      "marrageDate":1612137600000,
+      "cohibitedDate":1612224000000,
+      "seperatedDate":1612310400000,
+      "divorcedDate":1612396800000,
+      "creationDate":1613933016000,
+      "modificationDate":1615952136000
+   },
+   "cuPartnerChildInfo":{
+      "custPartChildInfo":1,
+      "customerRole":"FATHER",
+      "partnerRole":"MOTHER",
+      "haveChild":true,
+      "amountPaid":5000,
+      "paidBy":"",
+      "creationDate":1613933019000,
+      "modificationDate":1615952019000
+   },
+   "customerIncomeDetails":{
+      "custIncomeDetailID":1,
+      "employmentIncome":5000,
+      "selfEmploymentIncome":null,
+      "empInsuranceBenefit":null,
+      "workerCompensation":null,
+      "socialAssistance":null,
+      "intrestIncome":null,
+      "pensionIncome":null,
+      "supportIncome":null,
+      "otherIncome":null,
+      "creationDate":1613933075000,
+      "modificationDate":1615739632000
+   },
+   "partnerIncomeDetails":{
+      "partnerIncomeDetailID":1,
+      "employmentIncome":4000,
+      "selfEmploymentIncome":null,
+      "empInsuranceBenefit":null,
+      "workerCompensation":null,
+      "socialAssistance":null,
+      "intrestIncome":null,
+      "pensionIncome":null,
+      "supportIncome":null,
+      "otherIncome":null,
+      "creationDate":1613933080000,
+      "modificationDate":1615739635000
+   },
+   "childs":[
+      {
+         "childInfoID":1,
+         "firstName":"Arnav",
+         "middleName":"Singh",
+         "lastName":"Rawat",
+         "livesIN":"Monterial",
+         "livingWith":"Anil Kumar",
+         "relationship":"uncle",
+         "grade":"A",
+         "school":"Sherbrooke, QC, Canada",
+         "dob":1612137600000
+      }
+   ],
+   "form8aUserInput":{
+      "form8aID":1,
+      "userType":"RESPONDENT",
+      "dateServeredForm8A":1615248000000,
+      "courtID":null,
+      "courtFileNumber":null,
+      "canadaUSA":true,
+      "childSpousalSupport":true,
+      "childCustodyOrAccess":true,
+      "lawyerExist":false,
+      "propertyDivision":true
+   },
+   "form10":{
+      "divorceForm10ID":1,
+      "legalNameAddedRespondent":"meenal rawat",
+      "addressOfAddedRespondent":"100 Caine Road, Mid-Levels, Hong Kong",
+      "importantFactsLegalBasis":null,
+      "detailsOfOrder":null,
+      "importantFactsSupportClaim":null,
+      "claimWhoIsNotApplicant":true,
+      "claimOfYourOwn":true,
+      "claimExceptByYou":true,
+      "familyHistoryCorrect":false,
+      "claimAgainstAddedparty":true,
+      "claimAgainstApplicant":true
+   },
+   "divorceApplicantInformation":{
+      "divorceAppllicantID":1,
+      "fullLegalName":"Yogita Singh Rawat",
+      "address":"99 Ontario 11",
+      "province":"ON",
+      "city":"Tunis",
+      "streetAndNumber":"",
+      "municipality":null,
+      "postalCode":"P0N 1J0",
+      "tellephone":"+9910794875",
+      "fax":"312312432412",
+      "email":"yogita@gmail.com"
+   },
+   "divorceRespondentInformation":{
+      "divorceRespondedID":1,
+      "fullLegalName":"Vinay Singh Rawat",
+      "address":"100 Ontario Street East",
+      "province":"QC",
+      "city":"Montreal",
+      "streetAndNumber":"",
+      "municipality":null,
+      "postalCode":"H2X 2S9",
+      "tellephone":"+9910794875",
+      "fax":"342423423423",
+      "email":"vinay@pixeltechlab.com"
+   },
+   "divorceApplicantLawyer":{
+      "applicantLawyerID":1,
+      "fullLegalName":"Yogita Lawyer",
+      "address":"20 Ontario Street East",
+      "province":"QC",
+      "city":"Montreal",
+      "streetAndNumber":null,
+      "municipality":null,
+      "postalCode":"H2X 3W2",
+      "tellephone":"+2432423423",
+      "fax":"235235235",
+      "email":"AppLawyer@gmail.com"
+   },
+   "divorceRespondentLawyer":{
+      "respondentLawyerID":1,
+      "fullLegalName":"Vinay Lawyer",
+      "address":"100 Ontario Street East",
+      "province":"QC",
+      "city":"Montreal",
+      "streetAndNumber":null,
+      "municipality":null,
+      "postalCode":"H2X 2S9",
+      "tellephone":"+3242342353",
+      "fax":"523523523523",
+      "email":"reslawyer@gmail.com"
+   },
+   "divorceCourtDetails":{
+      "divorceCourtDetailID":1,
+      "courtID":null,
+      "nameOfCourt":"Superior Court of Justice Family Court Branch",
+      "locationOfCourt":"OTTAWA",
+      "addressOfCourt":"161 Elgin Street, 2nd Floor, Ottawa, Ontario, K2P 2K1",
+      "status":"NEW",
+      "courtFileNumber":"File100",
+      "streetAndNumber":null,
+      "province":"Ontario",
+      "postalCode":"K2P-2K1",
+      "tellephone":"613-239-1274",
+      "fax":"34324235"
+   },
+   "divorceChildLawyer":{
+      "childLawyerID":1,
+      "fullLegalName":"Chil Lawyer",
+      "address":"66 Ontario Street",
+      "city":"Bowmanville",
+      "province":"ON",
+      "postalCode":"L1C 2S8",
+      "tellephone":"+4234235355",
+      "fax":"235235235",
+      "email":"childlayer@gmail.com"
+   },
+   "divorceClaimAgreements":[
+      {
+         "divorceClaimMadeAgreementID":290,
+         "claimIdentifier":"00",
+         "claimName":"A divorce",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":291,
+         "claimIdentifier":"22",
+         "claimName":"Exclusive possession of contents of matrimonial home",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":292,
+         "claimIdentifier":"33",
+         "claimName":"Claims relating to a family arbitration",
+         "isAgreed":false
+      },
+      {
+         "divorceClaimMadeAgreementID":293,
+         "claimIdentifier":"01",
+         "claimName":"Spousal support",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":294,
+         "claimIdentifier":"23",
+         "claimName":"Freezing assets",
+         "isAgreed":false
+      },
+      {
+         "divorceClaimMadeAgreementID":295,
+         "claimIdentifier":"45",
+         "claimName":"Society supervision of my child(ren) for",
+         "isAgreed":false
+      },
+      {
+         "divorceClaimMadeAgreementID":296,
+         "claimIdentifier":"02",
+         "claimName":"Support for child(ren) – table amount",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":297,
+         "claimIdentifier":"03",
+         "claimName":"Support for child(ren) – other than table amount",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":298,
+         "claimIdentifier":"04",
+         "claimName":"Custody of child(ren)",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":299,
+         "claimIdentifier":"05",
+         "claimName":"Access of child(ren)",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":300,
+         "claimIdentifier":"41",
+         "claimName":"Lesser protection order",
+         "isAgreed":false
+      },
+      {
+         "divorceClaimMadeAgreementID":301,
+         "claimIdentifier":"20",
+         "claimName":"Equalization of net family properties",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":302,
+         "claimIdentifier":"42",
+         "claimName":"Return of child(ren) to my care",
+         "isAgreed":false
+      },
+      {
+         "divorceClaimMadeAgreementID":303,
+         "claimIdentifier":"21",
+         "claimName":"Exclusive possession of matrimonial home",
+         "isAgreed":true
+      },
+      {
+         "divorceClaimMadeAgreementID":304,
+         "claimIdentifier":"32",
+         "claimName":"Prejudgment interest",
+         "isAgreed":true
+      }
+   ],
+   "divorceOwnClaims":[
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"22"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"44"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"23"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"45"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"24"
+      },
+      {
+         "index":0.0,
+         "claimName":"Bajpayi",
+         "claimIdentifier":"46"
+      },
+      {
+         "index":0.0,
+         "claimName":"1",
+         "claimIdentifier":"47"
+      },
+      {
+         "index":0.0,
+         "claimName":"1",
+         "claimIdentifier":"48"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"30"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"31"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"10"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"32"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"11"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"12"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"34"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"13"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"14"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"15"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"16"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"17"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"18"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"0"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"1"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"2"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"3"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"4"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"5"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"40"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"41"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"20"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"42"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"21"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"43"
+      }
+   ],
+   "divorceForm10ImportantTexts":[
+      {
+         "textType":"FACT_SUPPORT",
+         "textIdentifier":"1",
+         "text":"What are the important facts that form the legal basis for your position in not agreeing with?1"
+      },
+      {
+         "textType":"ORDER",
+         "textIdentifier":"1",
+         "text":"\nGive details of the order that you want the court to make. 1"
+      },
+      {
+         "textType":"FACT_LEGAL",
+         "textIdentifier":"2",
+         "text":"What are the important facts supporting your claim(s)? 2"
+      },
+      {
+         "textType":"FACT_LEGAL",
+         "textIdentifier":"1",
+         "text":"What are the important facts supporting your claim(s)? 1"
+      },
+      {
+         "textType":"FACT_SUPPORT",
+         "textIdentifier":"2",
+         "text":"What are the important facts that form the legal basis for your position in not agreeing with? 2"
+      },
+      {
+         "textType":"ORDER",
+         "textIdentifier":"2",
+         "text":"\nGive details of the order that you want the court to make. 2"
+      }
+   ],
+   "divorceForm13PartOne":{
+      "divorceform13PartOneID":1,
+      "employerNameAdd":"",
+      "businessNameAdd":"",
+      "uneployedDate":null,
+      "yearToDateIncome":null,
+      "lastYearGrossIncome":50000.0,
+      "isCanadianDocAttached":false,
+      "indianListDocs":""
+   },
+   "divorceForm13PartOneIncomeSources":[
+      {
+         "incomeSourceIdentifier":"11",
+         "incomeSourceName":"Other sources of income (e.g. RRSP withdrawals, capital gains) (*attach Schedule A and divide annual amount by 12)",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"1",
+         "incomeSourceName":"Employment income (before deductions)",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"2",
+         "incomeSourceName":"Commissions, tips and bonuses",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"3",
+         "incomeSourceName":"Self-employment income",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"4",
+         "incomeSourceName":"Employment Insurance benefits",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"5",
+         "incomeSourceName":"Workers compensation benefits",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"6",
+         "incomeSourceName":"Social assistance income (including ODSP payments)",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"7",
+         "incomeSourceName":"Interest and investment income",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"8",
+         "incomeSourceName":"Pension income (including CPP and OAS)",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"9",
+         "incomeSourceName":"Spousal support received from a former spouse/partner",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"3a",
+         "incomeSourceName":"Monthly amount before expenses",
+         "monthlyAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"10",
+         "incomeSourceName":"Child Tax Benefits or Tax Rebates (e.g. GST)",
+         "monthlyAmountRecieved":0.0
+      }
+   ],
+   "divorceForm13PartOneIncomeAllSource":[
+      
+   ],
+   "divorceForm13Expenses":[
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Employee pension contributions",
+         "expenseAmount":0.0,
+         "expenseType":"AUTOMATIC_DEDUCTIONS"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Health insurance premiums",
+         "expenseAmount":0.0,
+         "expenseType":"HEALTH"
+      },
+      {
+         "expenseIdentifier":"8",
+         "expenseName":"Debt payments",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"6",
+         "expenseName":"Cable",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Parking",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Laundry and Dry Cleaning",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSEHOLD_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Pet care",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSEHOLD_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"RRSP/RESP withdrawals",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Electricity",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"School fees and supplies",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Dental expenses",
+         "expenseAmount":0.0,
+         "expenseType":"HEALTH"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Education",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Telephone",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Income taxes",
+         "expenseAmount":0.0,
+         "expenseType":"AUTOMATIC_DEDUCTIONS"
+      },
+      {
+         "expenseIdentifier":"6",
+         "expenseName":"Gifts",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      },
+      {
+         "expenseIdentifier":"7",
+         "expenseName":"Summer camp expenses",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Repairs and maintenance",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Hair care and beauty",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"EI premiums",
+         "expenseAmount":0.0,
+         "expenseType":"AUTOMATIC_DEDUCTIONS"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Rent or mortgage",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSING"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Property insurance",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSING"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Repairs and maintenance",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSING"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Vacations",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Gas and oil",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Heat",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Clothing for children",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Household supplies",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSEHOLD_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Cell phone",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Groceries",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSEHOLD_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"6",
+         "expenseName":"Children’s activities",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"CPP contributions",
+         "expenseAmount":0.0,
+         "expenseType":"AUTOMATIC_DEDUCTIONS"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Medicine and drugs",
+         "expenseAmount":0.0,
+         "expenseType":"HEALTH"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Public transit, taxis",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Entertainment/recreation",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Meals outside the home",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSEHOLD_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"9",
+         "expenseName":"Support paid for other children",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Car insurance and license",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Babysitting costs",
+         "expenseAmount":0.0,
+         "expenseType":"CHILDCARE_COSTS"
+      },
+      {
+         "expenseIdentifier":"6",
+         "expenseName":"Car Loan or Lease Payments",
+         "expenseAmount":0.0,
+         "expenseType":"TRANSPORTATION"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Eye care",
+         "expenseAmount":0.0,
+         "expenseType":"HEALTH"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Water",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Clothing",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      },
+      {
+         "expenseIdentifier":"10",
+         "expenseName":"",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Life Insurance premiums",
+         "expenseAmount":0.0,
+         "expenseType":"OTHER_EXPENSES"
+      },
+      {
+         "expenseIdentifier":"2",
+         "expenseName":"Property taxes",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSING"
+      },
+      {
+         "expenseIdentifier":"5",
+         "expenseName":"Union dues",
+         "expenseAmount":0.0,
+         "expenseType":"AUTOMATIC_DEDUCTIONS"
+      },
+      {
+         "expenseIdentifier":"1",
+         "expenseName":"Daycare expense",
+         "expenseAmount":0.0,
+         "expenseType":"CHILDCARE_COSTS"
+      },
+      {
+         "expenseIdentifier":"4",
+         "expenseName":"Condominium fees",
+         "expenseAmount":0.0,
+         "expenseType":"HOUSING"
+      },
+      {
+         "expenseIdentifier":"7",
+         "expenseName":"Internet",
+         "expenseAmount":0.0,
+         "expenseType":"UTILITIES"
+      },
+      {
+         "expenseIdentifier":"3",
+         "expenseName":"Alcohol and tobacco",
+         "expenseAmount":0.0,
+         "expenseType":"PERSONAL"
+      }
+   ],
+   "divorceForm13OtherBenefit":[
+      
+   ],
+   "divorceForm13PartThreeAsset":[
+      
+   ],
+   "divorceForm13PartFourDebt":[
+      
+   ],
+   "divorceForm13ScheduleAIncomeSource":[
+      {
+         "incomeSourceIdentifier":"1",
+         "incomeSourceName":"Net partnership income",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"2",
+         "incomeSourceName":"Net rental income",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"3",
+         "incomeSourceName":"Total amount of dividends received from taxable Canadian corporations",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"4",
+         "incomeSourceName":"Total capital gains - less capital losses",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"5",
+         "incomeSourceName":"Registered retirement savings plan withdrawals",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"6",
+         "incomeSourceName":"income from a Registered Retirement Income Fund or Annuity",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"7",
+         "incomeSourceName":"",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"4a",
+         "incomeSourceName":"Total capital gains",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"4b",
+         "incomeSourceName":"less capital losses",
+         "annualAmountRecieved":0.0
+      },
+      {
+         "incomeSourceIdentifier":"2a",
+         "incomeSourceName":"Gross annual rental income of",
+         "annualAmountRecieved":0.0
+      }
+   ],
+   "divorceForm13ScheduleChildExpense":[
+      
+   ],
+   "divorceForm13ScheduleBInformations":{
+      "divorceform13ScheduleCID":1,
+      "isLivingAlone":false,
+      "isLivingWithPartner":false,
+      "partnerName":null,
+      "isLivingWithOtherAdults":false,
+      "adultNames":null,
+      "isLivingWithChilds":false,
+      "numberOfChildsLivingWith":null,
+      "isSpouseWorking":false,
+      "spouseWorkAddress":null,
+      "isSpouseEarn":false,
+      "spouseEarnAmount":null,
+      "spouseEarnFrequency":null,
+      "isSpouseContributes":false,
+      "spouseContributionAmount":null,
+      "spouseContributionFrequency":null
+   },
+   "divorceForm13_1Part4As":[
+      
+   ],
+   "divorceForm13_1Part4Bs":[
+      {
+         "item":"Household goods & furniture",
+         "index":1.0,
+         "identifier":1.0,
+         "description":"",
+         "indicateNotPossesion":"",
+         "estimateMarketValueToday":null,
+         "estimateMarketValueMarriage":null,
+         "estimateMarketValueValuation":null
+      },
+      {
+         "item":"Cars, boats, vehicle",
+         "index":2.0,
+         "identifier":2.0,
+         "description":"",
+         "indicateNotPossesion":"",
+         "estimateMarketValueToday":null,
+         "estimateMarketValueMarriage":null,
+         "estimateMarketValueValuation":null
+      },
+      {
+         "item":"Jewellery, art, electronics, tools, sports & hobby equipment",
+         "index":3.0,
+         "identifier":3.0,
+         "description":"",
+         "indicateNotPossesion":"",
+         "estimateMarketValueToday":null,
+         "estimateMarketValueMarriage":null,
+         "estimateMarketValueValuation":null
+      },
+      {
+         "item":"Other special items",
+         "index":4.0,
+         "identifier":4.0,
+         "description":"",
+         "indicateNotPossesion":"",
+         "estimateMarketValueToday":null,
+         "estimateMarketValueMarriage":null,
+         "estimateMarketValueValuation":null
+      }
+   ],
+   "divorceForm13_1Part4Cs":[
+      
+   ],
+   "divorceForm13_1Part4Ds":[
+      
+   ],
+   "divorceForm13_1Part4Es":[
+      
+   ],
+   "divorceForm13_1Part4Fs":[
+      
+   ],
+   "divorceForm13_1Part4Gs":[
+      
+   ],
+   "divorceForm13_1Part5s":[
+      
+   ],
+   "divorceForm13_1Part6s":[
+      {
+         "index":1.0,
+         "assets":null,
+         "detail":"",
+         "category":"Land",
+         "identifier":1.0,
+         "liabilities":null
+      },
+      {
+         "index":2.0,
+         "assets":null,
+         "detail":"",
+         "category":"General household items & vehicles",
+         "identifier":2.0,
+         "liabilities":null
+      },
+      {
+         "index":3.0,
+         "assets":null,
+         "detail":"",
+         "category":"Bank accounts, savings, securities & pensions",
+         "identifier":3.0,
+         "liabilities":null
+      },
+      {
+         "index":4.0,
+         "assets":null,
+         "detail":"",
+         "category":"Life & disability insurance",
+         "identifier":4.0,
+         "liabilities":null
+      },
+      {
+         "index":5.0,
+         "assets":null,
+         "detail":"",
+         "category":"Business interests",
+         "identifier":5.0,
+         "liabilities":null
+      },
+      {
+         "index":6.0,
+         "assets":null,
+         "detail":"",
+         "category":"Money owed to you",
+         "identifier":6.0,
+         "liabilities":null
+      },
+      {
+         "index":7.0,
+         "assets":null,
+         "detail":"",
+         "category":"Other property",
+         "identifier":7.0,
+         "liabilities":null
+      },
+      {
+         "index":8.0,
+         "assets":null,
+         "detail":"",
+         "category":"Debts and other liabilities",
+         "identifier":8.0,
+         "liabilities":null
+      }
+   ],
+   "divorceForm13_1Part7s":[
+      
+   ],
+   "divorceForm13_1Part9s":[
+      {
+         "item":"Value of all property owned on valuation date",
+         "index":1.0,
+         "balance":0.0,
+         "deduction":0.0,
+         "identifier":1.0
+      },
+      {
+         "item":"Subtract total value of exculded property",
+         "index":2.0,
+         "balance":0.0,
+         "deduction":0.0,
+         "identifier":2.0
+      },
+      {
+         "item":"Subtract total value of excluded property",
+         "index":3.0,
+         "balance":0.0,
+         "deduction":0.0,
+         "identifier":3.0
+      },
+      {
+         "item":"Net Family Property",
+         "index":4.0,
+         "balance":0.0,
+         "deduction":0.0,
+         "identifier":4.0
+      }
+   ],
+   "divorceForm13_1Part8s":[
+      
+   ],
+   "divorceForm10ApplicantFamilyHistory":{
+      "index":1,
+      "age":26.0,
+      "dob":791596800000,
+      "residentIN":"Tunis, ON",
+      "residentSince":1612137600000,
+      "surnameAtBirth":"Surname Birth",
+      "surnameBeforeMarriage":"Suramebefore",
+      "divorceBefore":true,
+      "placeDateDivorce":"31 march new delhi"
+   },
+   "divorceForm10RespondentFamilyHistory":{
+      "index":1,
+      "age":27.0,
+      "dob":760060800000,
+      "residentIN":"Montreal, QC",
+      "residentSince":1612310400000,
+      "surnameAtBirth":"Surname birth",
+      "surnameBeforeMarriage":"Surname before",
+      "divorceBefore":true,
+      "placeDateDivorce":"6 march UP"
+   },
+   "divorceForm10_ClaimOnAddedParty":[
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"22"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"44"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"23"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"45"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"24"
+      },
+      {
+         "index":0.0,
+         "claimName":"Added party place",
+         "claimIdentifier":"46"
+      },
+      {
+         "index":0.0,
+         "claimName":"1",
+         "claimIdentifier":"47"
+      },
+      {
+         "index":0.0,
+         "claimName":"1",
+         "claimIdentifier":"48"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"30"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"31"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"10"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"32"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"11"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"12"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"34"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"13"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"14"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"15"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"16"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"17"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"18"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"0"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"1"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"2"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"3"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"4"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"5"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"40"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"41"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"20"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"42"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"21"
+      },
+      {
+         "index":0.0,
+         "claimName":"true",
+         "claimIdentifier":"43"
+      }
+   ],
+   "divorceForm8_Page1Respondent":null,
+   "divorceForm8A_8Page1DivorceType":{
+      "index":1,
+      "isSimpleDivorce":false,
+      "isJointDivorce":true
+   },
+   "divorceForm8A_Page3FamilyHistoryApplicant":{
+      "index":1,
+      "dob":760060800000,
+      "age":27,
+      "residentIn":"Montreal, QC",
+      "residentSince":null,
+      "surnameAtBirth":"",
+      "surnameBeforeMarriage":"",
+      "divorcedBefore":false,
+      "placeDateOfDivorced":""
+   },
+   "divorceForm8A_Page3FamilyHistoryRespondent":{
+      "index":1,
+      "dob":791596800000,
+      "age":26,
+      "residentIn":"Tunis, ON",
+      "residentSince":null,
+      "surnameAtBirth":"",
+      "surnameBeforeMarriage":"",
+      "divorcedBefore":false,
+      "placeDateOfDivorced":""
+   },
+   "divorceForm8A_Page3RelationshipDates":{
+      "index":1,
+      "marriageDate":1612137600000,
+      "livingTogetherDate":1612224000000,
+      "separatedDate":1612310400000,
+      "neverLivedTogether":true
+   },
+   "divorceForm8A_Page3Children":[
+      {
+         "age":0.0,
+         "dob":1.6121376E12,
+         "index":1.0,
+         "residentIn":"Monterial",
+         "fullLegalName":"Arnav Singh Rawat",
+         "nowLivingWith":"Anil Kumar"
+      }
+   ],
+   "divorceForm8A_Page5Claim":null,
+   "divorceForm8A_8Page5ImportantFact":null,
+   "divorceForm8A_Page6OrderText":null,
+   "divorceForm8APage4PreviousCaseAgreement":{
+      "index":1,
+      "ischildBeenIncourt":true,
+      "isAgreementDealing":true,
+      "agreementDealingDescription":"",
+      "isNoticeRecalculation":true,
+      "noticeRecalculationDescription":"",
+      "isChildSupportNotice":true,
+      "childSupportNoticeDescription":"",
+      "isAgreedToArbitrate":null,
+      "agreedToArbitrateDescription":""
+   },
+   "divorceForm8Page4PreviousCaseAgreement":{
+      "index":1,
+      "ischildBeenIncourt":false,
+      "isAgreementDealing":true,
+      "agreementDealingDescription":"written agreemen",
+      "isNoticeRecalculation":true,
+      "noticeRecalculationDescription":"Calculation and",
+      "isChildSupportNotice":true,
+      "childSupportNoticeDescription":" asking the court",
+      "isAgreedToArbitrate":false,
+      "agreedToArbitrateDescription":""
+   },
+   "divorceForm8A_Page6FactText":null
+}
